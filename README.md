@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm nxghtmare 👋</h1>
 
-<!--
-**adelinquent/adelinquent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Information Security student · Windows forensics & defensive security enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About me
+
+- 🎓 I'm currently studying <b>Information Security</b>.
+- 🛡️ Interested in secure development, network security, and digital forensics.
+- 🧩 I enjoy CTFs, breaking things in a controlled way, and then figuring out how to defend them.
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <a href="https://github.com/adelinquent">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=adelinquent&show_icons=true&hide_border=true&count_private=true" 
+      alt="GitHub Stats" 
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/adelinquent">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelinquent&layout=compact&hide_border=true&langs_count=8" 
+      alt="Top Languages" 
+    />
+  </a>
+</p>
+
