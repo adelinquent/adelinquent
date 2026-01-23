@@ -2,6 +2,10 @@
 
 <p align="center">
   Information Security student · Windows forensics & defensive security enthusiast
+  
+</p>
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/svcdll.png" alt="Your Image Badge" />
 </p>
 
 ---
