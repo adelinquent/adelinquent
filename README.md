@@ -2,11 +2,7 @@
 
 <p align="center">
   Information Security Specialist · Windows forensics & offensive security enthusiast
-  
-</p>
-<p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/svcdll.png" alt="Your Image Badge" />
-</p>
+
 
 ---
 
