@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm nxghtmare 👋</h1>
 
 <p align="center">
-  Information Security student · Windows forensics & offensive security enthusiast
+  Information Security Specialist · Windows forensics & offensive security enthusiast
   
 </p>
 <p align="center">
